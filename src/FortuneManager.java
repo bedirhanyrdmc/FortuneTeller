@@ -7,6 +7,7 @@ import java.util.Random;
  * using an ArrayList as the primary data structure.
  *
  * @author Han Yardimci
+ * @author Yushi Kawashima
  * @date 04/21/2026
  */
 public class FortuneManager {
