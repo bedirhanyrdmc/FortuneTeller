@@ -9,6 +9,7 @@ import javax.swing.*;
  * All fortune logic is handled by the FortuneManager class.
  *
  * @author Han Yardimci
+ * @author Yushi Kawashima
  * @date 04/21/2026
  */
 public class App {
