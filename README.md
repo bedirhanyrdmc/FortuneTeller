@@ -19,10 +19,28 @@ Han Yardimci & Yushi kawashima
 - `App.java`: To store GUI and main method
 - `Fortune_Manager.java`: To store all logic of the program
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Features
+### Get Random Fortune
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Click the Get Random Fortune button to display a randomly selected fortune
 
-## Dependency Management
+### Show All Fortunes
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Click Show All Fortunes to display all fortunes with their index numbers
+Use this before removing or editing to find the correct index
+
+### Add Fortune
+
+Type a new fortune in the New Fortune: field
+Click Add Fortune to save it to the list
+
+### Remove Fortune
+
+Type the index number of the fortune you want to remove in the Remove Index: field
+Click Remove Fortune to delete it
+
+### Edit Fortune
+
+Type the index number in the Edit Index field
+Type the new fortune text in the New Text field
+Click Edit Fortune to update it
