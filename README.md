@@ -1,13 +1,19 @@
-## Fortune Teller App
+### Fortune Teller App
+##Authors
 #Han Yardimci & Yushi kawashima
+
+
+##Description
+#Fortune Teller app is a java application built with swing.It allows users to interact with a list of fortunes with a graphical user interface.
+User can generate a random fortune, add new fortunes, remove existing ones and edit fortunes by index
 
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+
+- `App.java`: To store GUI and main method
+- `Fortune_Manager.java`: To store all logic of the program
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
