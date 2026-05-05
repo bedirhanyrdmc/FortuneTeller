@@ -1,5 +1,6 @@
 ### Fortune Teller App
 ##Authors
+
 #Han Yardimci & Yushi kawashima
 
 
