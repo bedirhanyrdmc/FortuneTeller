@@ -5,8 +5,8 @@
 
 
 ## Description
-### Fortune Teller app is a java application built with swing.It allows users to interact with a list of fortunes with a graphical user interface.
-### User can generate a random fortune, add new fortunes, remove existing ones and edit fortunes by index
+ Fortune Teller app is a java application built with swing.It allows users to interact with a list of fortunes with a graphical user interface.
+ User can generate a random fortune, add new fortunes, remove existing ones and edit fortunes by index
 
 
 ## Folder Structure
