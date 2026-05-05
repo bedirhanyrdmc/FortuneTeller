@@ -1,5 +1,5 @@
 ## Fortune Teller App
-#By -> Han Yardimci & Yushi kawashima
+#Han Yardimci & Yushi kawashima
 
 
 ## Folder Structure
