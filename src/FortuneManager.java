@@ -20,7 +20,7 @@ public class FortuneManager {
      */
     public FortuneManager() {
         fortunes = new ArrayList<>();
-
+    
         fortunes.add("You will have a great day.");
         fortunes.add("Success is coming your way.");
         fortunes.add("Be careful of new opportunities.");
@@ -28,8 +28,8 @@ public class FortuneManager {
         fortunes.add("Your hard work will pay off soon.");
         fortunes.add("Someone is thinking about you.");
         fortunes.add("Good news will arrive shortly.");
-        fortunes.add("You will learn something important today.");
-        fortunes.add("A new friendship will form soon.");
+        fortunes.add("Today, you will see someone important to you.");
+        fortunes.add("A new friendship will begin soon.");
         fortunes.add("Luck is on your side.");
     }
 
