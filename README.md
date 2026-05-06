@@ -46,7 +46,7 @@ Type the new fortune text in the New Text field
 Click Edit Fortune to update it
 # *********************
 
-![image 1](image1.png)
-![image 2](image2.png)
-![image 3](image3.png)
-![image 4](image4.png)
+![image 1](src/images/image1.png)
+![image 2](src/images/image2.png)
+![image 3](src/images/image3.png)
+![image 4](src/images/image4.png)
