@@ -44,3 +44,5 @@ Click Remove Fortune to delete it
 Type the index number in the Edit Index field
 Type the new fortune text in the New Text field
 Click Edit Fortune to update it
+## *********************
+
