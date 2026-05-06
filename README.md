@@ -46,3 +46,4 @@ Type the new fortune text in the New Text field
 Click Edit Fortune to update it
 ## *********************
 
+![Fortune Teller App](image1.png)
